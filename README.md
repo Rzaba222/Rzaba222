@@ -1,6 +1,6 @@
 <!--Why are you looking in my code 🧐-->
 
-<h1>Hi there, I'm Rzaba_</h1> 
+<h1>Hi there, I'm froguefy</h1> 
 
 <h3>18yo front-end beginner 😎</h3>
 <br>
