@@ -2,7 +2,7 @@
 
 <h1>Hi there, I'm froguefy</h1> 
 
-<h3>18yo front-end beginner 😎</h3>
+<h3>19yo front-end beginner 😎</h3>
 <br>
 <h4>Skills (so far, not too many 😉): </h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
